@@ -1,3 +1,5 @@
+import Lessons.Scope.Private.CheckingAccount;
+
 public class Bank {
     private CheckingAccount accountOne;
     private  CheckingAccount accountTwo;

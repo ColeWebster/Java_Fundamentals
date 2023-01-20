@@ -1,5 +1,3 @@
-package Java.Classes;
-
 public class Store {
     String productType;
     

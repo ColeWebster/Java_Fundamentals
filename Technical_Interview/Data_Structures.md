@@ -13,3 +13,9 @@
 - Processing information
 - Maintaining information
 - Retrieving information
+
+### Quiz
+What properties make a Node useful?
+- data helps to store information 
+- next is a link to other Nodes for easier traveral.
+
